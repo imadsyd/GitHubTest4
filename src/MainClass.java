@@ -1,4 +1,4 @@
 public class MainClass {
-int i = 30;
+int i = 40;
 
 }
