@@ -1,4 +1,4 @@
 public class MainClass {
-int i = 40;
-
+    // change value of i
+    int i = 100;
 }
